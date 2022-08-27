@@ -1,13 +1,17 @@
-<h1 align="center">
-  <a href="https://github.com/Ad-h0c/Ad-h0c/blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=D1FF3800&multiline=true&width=435&lines=Welcome+to+the+Ad-h0c's+realm!" alt="Typing SVG" /></a>
+<h1 align="center" style="border-bottom: none">
+  <a href="https://github.com/Ad-h0c/Ad-h0c/blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=D1FF3800&multiline=true&width=435&lines=Welcome+to+the+Ad-h0c's+realm!" alt="Typing SVG" style="border-bottom: none" /></a>
   </h1>
   
-  
+
+
+<div align="center">
+    
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siva-prakash-reddy-c-7b63ab229/)
 [![Twitter](https://img.shields.io/twitter/follow/Adh0c__)](https://twitter.com/Adh0c__)
 ![](https://visitor-badge.glitch.me/badge?page_id=Ad-h0c)
+  </div>
 
-<hr>
+
 
 <div align="center">
   <h2> About Me</h2>
