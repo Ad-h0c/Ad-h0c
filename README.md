@@ -8,11 +8,10 @@
 ## About me
 
 <div style="display: flex; flex-direction: row;">
-  ![Coding](https://github.com/Ad-h0c/Ad-h0c/blob/main/Coding.png)
-<!--   <img height="280em" align="right" src="./Coding.png"/> -->
+  <img class="img" height="280em" align="right" src="./Coding.png"/>
     <div style="">
       <p>:wave: Hi there! My name''s Siva parkash. You can call me Siva! </p>
-      <p>:mailbox: My email Id: Reddycsivaprakash5@gmail.com</p>
+      <p>:mailbox: My email Id: Reddycsivaprakash1@gmail.com</p>
       <p> :computer: I am a blockchain developer currently working on ethereum, binance, and other EVM chains.</p>
       <p>:question: Ask me about:  Blockchain, smart contracts, dapps, solidity. </p>
       <p :phone: How to reach me: Linkedin, twitter. </p>
@@ -20,8 +19,13 @@
       <p>:video_game: I play video games! </p>
       <p>:aquarius: I am an aquarius.</p>
     </div>
-
 </div>
+   <style>
+      .img {
+        border: 2px solid red;
+        border-radius: 25px;
+      }
+    </style>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ad-h0c&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs">
