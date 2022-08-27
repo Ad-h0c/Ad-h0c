@@ -1,12 +1,17 @@
-<h1>👋 Welcome to the Ad-h0c's realm! 👋</h1>
-
-<br/>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=D1FF3800&multiline=true&width=435&lines=Welcome+to+the+Ad-h0c's+realm!" alt="Typing SVG" /></a>
+  </h1>
+  
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siva-prakash-reddy-c-7b63ab229/)
 [![Twitter](https://img.shields.io/twitter/follow/Adh0c__)](https://twitter.com/Adh0c__)
 ![](https://visitor-badge.glitch.me/badge?page_id=Ad-h0c)
 
-## About me:
+<hr>
+
+<div align="center">
+  <h2> About Me</h2>
+  </div>
 
 <div style="display: flex; flex-direction: row;">
   <img class="img" height="280em" align="right" src="./Coding.png"/>
@@ -22,9 +27,17 @@
     </div>
 </div>
 
-<br/>
+<hr>
 
-##
+<div align="center">
+  <h2>🐍 Hungry snake needs contributions! 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/ad-h0c/ad-h0c/blob/output/github-contribution-grid-snake.gif">
+  <br>
+</div>
+  <hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ad-h0c&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs">
@@ -35,10 +48,6 @@
   <br>
 </p>
 
-<br />
 
- ### Hungry snake needs more contributions :snake:
 
-<!-- platane/snk works -->
 
-   ![snake gif](https://github.com/ad-h0c/ad-h0c/blob/output/github-contribution-grid-snake.gif)
