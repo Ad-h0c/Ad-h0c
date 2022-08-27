@@ -32,11 +32,7 @@
     </div>
 </div>
 
-<!-- <p align="center">⚡Stats⚡</p> -->
-
-<div align="center">
-  <h2> ⚡ Stats ⚡ </h2>
-  </div>
+<br>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ad-h0c&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs">
