@@ -43,8 +43,6 @@
   <br>
 </p>
 
-<hr>
-
 <div align="center">
   <h2>🐍 Hungry snake needs contributions! 🐍</h2>
   <br>
