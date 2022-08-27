@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <h2> About Me</h2>
+  <h2> 🧞‍ About Me 🧞‍ </h2>
   </div>
 
 <div style="display: flex; flex-direction: row;">
@@ -28,20 +28,15 @@
       <p>😄 Pronouns:he/him</p>
       <p>:video_game: I play video games! </p>
       <p>:aquarius: I am an aquarius.</p>
+      <p>:page_facing_up:You can find my <a href="https://ad-h0c.github.io/resume/">resume</a> here.</p>
     </div>
 </div>
 
-<hr>
+<!-- <p align="center">⚡Stats⚡</p> -->
 
 <div align="center">
-  <h2>🐍 Hungry snake needs contributions! 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/ad-h0c/ad-h0c/blob/output/github-contribution-grid-snake.gif">
-  <br>
-</div>
-  <hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+  <h2> ⚡ Stats ⚡ </h2>
+  </div>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ad-h0c&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs">
@@ -51,6 +46,15 @@
   <br>
   <br>
 </p>
+
+<hr>
+
+<div align="center">
+  <h2>🐍 Hungry snake needs contributions! 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/ad-h0c/ad-h0c/blob/output/github-contribution-grid-snake.gif">
+  <br>
+</div>
 
 
 
