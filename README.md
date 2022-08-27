@@ -20,12 +20,6 @@
       <p>:aquarius: I am an aquarius.</p>
     </div>
 </div>
-   <style>
-      .img {
-        border: 2px solid red;
-        border-radius: 25px;
-      }
-    </style>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ad-h0c&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs">
