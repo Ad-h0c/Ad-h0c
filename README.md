@@ -35,4 +35,10 @@
   <br>
 </p>
 
-![snake gif](https://github.com/ad-h0c/ad-hoc/blob/output/github-contribution-grid-snake.gif)
+<br />
+
+### Hungry snake needs more contributions :snake:
+
+<!-- platane/snk works -->
+
+![snake gif](https://github.com/ad-h0c/ad-h0c/blob/output/github-contribution-grid-snake.gif)
