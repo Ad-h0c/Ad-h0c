@@ -8,7 +8,8 @@
 ## About me
 
 <div style="display: flex; flex-direction: row;">
-  <img height="280em" align="right" src="./coding.png"/>
+  ![Coding](https://github.com/Ad-h0c/Ad-h0c/blob/main/Coding.png)
+<!--   <img height="280em" align="right" src="./Coding.png"/> -->
     <div style="">
       <p>:wave: Hi there! My name''s Siva parkash. You can call me Siva! </p>
       <p>:mailbox: My email Id: Reddycsivaprakash5@gmail.com</p>
