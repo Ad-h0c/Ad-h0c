@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none">
-  <a href="https://github.com/Ad-h0c/Ad-h0c/blob/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=D1FF3800&multiline=true&width=435&lines=Welcome+to+the+Ad-h0c's+realm!" alt="Typing SVG" style="border-bottom: none" /></a>
+  <a href="https://github.com/Ad-h0c"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=D1FF3800&multiline=true&width=435&lines=Welcome+to+the+Ad-h0c's+realm!" alt="Typing SVG" style="border-bottom: none" /></a>
   </h1>
 
 <div align="center">
