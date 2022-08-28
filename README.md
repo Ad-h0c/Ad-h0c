@@ -23,7 +23,6 @@
       <p :phone: How to reach me: Linkedin, twitter. </p>
       <p>😄 Pronouns:he/him</p>
       <p>:video_game: I play video games! </p>
-      <p>:aquarius: I am an aquarius.</p>
       <p>:page_facing_up: You can find my <a href="https://ad-h0c.github.io/resume/">resume</a> here.</p>
     </div>
 </div>
