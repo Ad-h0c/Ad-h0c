@@ -21,7 +21,7 @@
 <div style="display: flex; flex-direction: row;">
   <img class="img" height="280em" align="right" src="./Coding.png"/>
     <div style="">
-      <p>:wave: Hi there! My name''s Siva parkash. You can call me Siva! </p>
+      <p>:wave: Hi there! My name''s Siva Prakash Reddy C. You can call me Siva! </p>
       <p>:mailbox: My email Id: Reddycsivaprakash1@gmail.com</p>
       <p> :computer: I am a blockchain developer currently working on ethereum, binance, and other EVM chains.</p>
       <p>:question: Ask me about:  Blockchain, smart contracts, dapps, solidity. </p>
