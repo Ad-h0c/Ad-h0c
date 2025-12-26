@@ -31,24 +31,5 @@
     </div>
 </div>
 
-<br>
-
-<p align="center">
-  <img height="50%" width="55%" src ="https://github-readme-stats.vercel.app/api?username=Ad-h0c&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs">
-  <img height="50%" width="40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-h0c&layout=compact&hide_border=true&theme=buefy&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Ad-h0c&theme=buefy&hide_border=true">
-  <br>
-  <br>
-  <br>
-</p>
-
-<div align="center">
-  <h2>🐍 Hungry snake needs contributions! 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/ad-h0c/ad-h0c/blob/output/github-contribution-grid-snake.gif">
-  <br>
-</div>
-
-
 
 
